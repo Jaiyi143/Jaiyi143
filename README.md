@@ -1,6 +1,5 @@
-# Hi there, I'm Sergie! 👋
+# Hi there, I'm Jaiyi! 👋
 
-I am a 2nd-year **Computer Engineering Technology** student at the Technological University of the Philippines Visayas. I'm passionate about bridging the gap between hardware engineering and software development. 
 
 ## 🚀 About Me
 * 🎓 Currently diving deep into digital logic design and full-stack software development.
