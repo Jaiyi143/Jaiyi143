@@ -24,9 +24,3 @@
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/postgresql-4169e1?style=for-the-badge&logo=postgresql&logoColor=white)
 
----
-
-## 📈 GitHub Stats
-<!-- You can uncomment the lines below to add dynamic GitHub stats to your profile! -->
-<!-- ![Sergie's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jaiyi143&show_icons=true&theme=radical) -->
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jaiyi143&layout=compact&theme=radical) -->
