@@ -6,7 +6,6 @@ I am a 2nd-year **Computer Engineering Technology** student at the Technological
 * 🎓 Currently diving deep into digital logic design and full-stack software development.
 * ⚙️ Tinkering with PCB layouts, ModelSim testbenches, and Java applications.
 * 🌱 Always learning new ways to optimize both code and hardware systems.
-* 📫 How to reach me: **[Your Email Here]**
 
 ---
 
