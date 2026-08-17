@@ -29,9 +29,9 @@
   <thead>
     <tr align="center">
       <th><strong>Programming Languages</strong></th>
-      <th><strong>Hardware Tools</strong></th>
       <th><strong>Web & Frontend</strong></th>
       <th><strong>Database</strong></th>
+      <th><strong>Hardware Tools</strong></th>
     </tr>
   </thead>
   <tbody>
@@ -44,11 +44,6 @@
         <img src="https://img.shields.io/badge/VB.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="VB.NET" />
       </td>
       <td>
-        <img src="https://img.shields.io/badge/Quartus_Prime-0071C5?style=for-the-badge&logo=intel&logoColor=white" alt="Quartus" /><br /><br />
-        <img src="https://img.shields.io/badge/KiCad-314CB6?style=for-the-badge&logo=kicad&logoColor=white" alt="KiCad" /><br /><br />
-        <img src="https://img.shields.io/badge/Multisim-005F9E?style=for-the-badge" alt="Multisim" />
-      </td>
-      <td>
         <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" /><br /><br />
         <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" /><br /><br />
         <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
@@ -56,6 +51,45 @@
       <td>
         <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" /><br /><br />
         <img src="https://img.shields.io/badge/postgresql-4169e1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+      </td>
+      <td>
+        <img src="https://img.shields.io/badge/Quartus_Prime-0071C5?style=for-the-badge&logo=intel&logoColor=white" alt="Quartus" /><br /><br />
+        <img src="https://img.shields.io/badge/KiCad-314CB6?style=for-the-badge&logo=kicad&logoColor=white" alt="KiCad" /><br /><br />
+        <img src="https://img.shields.io/badge/Multisim-005F9E?style=for-the-badge" alt="Multisim" />
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+<br />
+
+## 🧰 Software & Development Tools
+
+<table>
+  <thead>
+    <tr align="center">
+      <th><strong>IDEs & Editors</strong></th>
+      <th><strong>Design & Media</strong></th>
+      <th><strong>Version Control & Environment</strong></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr align="center" valign="top">
+      <td>
+        <img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" /><br /><br />
+        <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white" alt="Visual Studio" /><br /><br />
+        <img src="https://img.shields.io/badge/CLion-000000?style=for-the-badge&logo=clion&logoColor=white" alt="CLion" /><br /><br />
+        <img src="https://img.shields.io/badge/WebStorm-000000?style=for-the-badge&logo=webstorm&logoColor=white" alt="WebStorm" />
+      </td>
+      <td>
+        <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" /><br /><br />
+        <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva" /><br /><br />
+        <img src="https://img.shields.io/badge/CapCut-000000?style=for-the-badge&logo=capcut&logoColor=white" alt="CapCut" />
+      </td>
+      <td>
+        <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" /><br /><br />
+        <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /><br /><br />
+        <img src="https://img.shields.io/badge/Laragon-0E83CD?style=for-the-badge&logo=laragon&logoColor=white" alt="Laragon" />
       </td>
     </tr>
   </tbody>
