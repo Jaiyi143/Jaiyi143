@@ -1,50 +1,102 @@
-<h1 align="center">Hi, I’m Sergie 👋</h1>
-
-<p align="center">
-  Web development · Digital logic · Circuit design
-</p>
-
-<p align="center">
-  <a href="https://www.facebook.com/sergie143/"><img src="https://img.shields.io/badge/Facebook-742A48?style=flat-square&amp;logo=facebook&amp;logoColor=white" alt="Facebook" /></a>
-  <a href="https://www.instagram.com/jaiyi_09/"><img src="https://img.shields.io/badge/Instagram-742A48?style=flat-square&amp;logo=instagram&amp;logoColor=white" alt="Instagram" /></a>
-  <a href="https://discord.gg/jaiyi143"><img src="https://img.shields.io/badge/Discord-742A48?style=flat-square&amp;logo=discord&amp;logoColor=white" alt="Discord" /></a>
-</p>
-
-## Tech stack
-
-### Web development
-
-![HTML5](https://img.shields.io/badge/HTML5-30394A?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-30394A?style=flat-square&logo=css&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-30394A?style=flat-square&logo=javascript&logoColor=white)
-
-### Programming languages
-
-![C++](https://img.shields.io/badge/C%2B%2B-30394A?style=flat-square&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/Java-30394A?style=flat-square&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-30394A?style=flat-square&logo=python&logoColor=white)
-![VB.NET](https://img.shields.io/badge/VB.NET-30394A?style=flat-square&logo=dotnet&logoColor=white)
-
-### Databases
-
-![SQL](https://img.shields.io/badge/SQL-30394A?style=flat-square)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-30394A?style=flat-square&logo=postgresql&logoColor=white)
-
-### Digital design & hardware
-
-![Verilog](https://img.shields.io/badge/Verilog-30394A?style=flat-square)
-![Quartus Prime](https://img.shields.io/badge/Quartus_Prime-30394A?style=flat-square&logo=intel&logoColor=white)
-![KiCad](https://img.shields.io/badge/KiCad-30394A?style=flat-square&logo=kicad&logoColor=white)
-![Multisim](https://img.shields.io/badge/Multisim-30394A?style=flat-square)
-
-## Software & development tools
-
-- **Editors & IDEs** · VS Code, Visual Studio, CLion, WebStorm, PyCharm
-- **Design & media** · Figma, Canva, CapCut
-- **Version control & local development** · Git, GitHub, Laragon
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sergie143&amp;label=Profile%20views&amp;color=742A48&amp;style=flat-square" alt="Profile views" />
-</p>
+\<body>\
+&#x20;   \<div align="center">\
+\
+\# Hi there, I'm Sergie! \
+\
+\<br />\
+\
+\<img src="https\://komarev.com/ghpvc/?username=sergie143&label=Profile%20Views&color=800000&style=flat-square" alt="Profile views" />\
+\
+\</div>\
+\
+\---\
+\
+\## 🌐 Connect with Me\
+\
+\<div align="center">\
+\
+[![Facebook]\(https\://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)]\(https\://www\.facebook.com/sergie143/)\
+[![Instagram]\(https\://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)]\(https\://www\.instagram.com/jaiyi_09/)\
+[![Discord]\(https\://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)]\(https\://discord.gg/jaiyi143)\
+\
+\</div>\
+\
+\---\
+\
+\## 🛠️ My Tech Stack\
+\
+\<table>\
+&#x20; \<thead>\
+&#x20;   \<tr align="center">\
+&#x20;     \<th>\<strong>Programming Languages\</strong>\</th>\
+&#x20;     \<th>\<strong>Web & Frontend\</strong>\</th>\
+&#x20;     \<th>\<strong>Database\</strong>\</th>\
+&#x20;     \<th>\<strong>Hardware Tools\</strong>\</th>\
+&#x20;   \</tr>\
+&#x20; \</thead>\
+&#x20; \<tbody>\
+&#x20;   \<tr align="center" valign="top">\
+&#x20;     \<td>\
+&#x20;       \<img src="https\://img.shields.io/badge/Verilog-000000?style=for-the-badge&logo=verilog&logoColor=white" alt="Verilog" />\<br />\<br />\
+&#x20;       \<img src="https\://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />\<br />\<br />\
+&#x20;       \<img src="https\://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />\<br />\<br />\
+&#x20;       \<img src="https\://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=%23ffdd54" alt="Python" />\<br />\<br />\
+&#x20;       \<img src="https\://img.shields.io/badge/VB.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="VB.NET" />\
+&#x20;     \</td>\
+&#x20;     \<td>\
+&#x20;       \<img src="https\://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />\<br />\<br />\
+&#x20;       \<img src="https\://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />\<br />\<br />\
+&#x20;       \<img src="https\://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />\
+&#x20;     \</td>\
+&#x20;     \<td>\
+&#x20;       \<img src="https\://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />\<br />\<br />\
+&#x20;       \<img src="https\://img.shields.io/badge/postgresql-4169e1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />\
+&#x20;     \</td>\
+&#x20;     \<td>\
+&#x20;       \<img src="https\://img.shields.io/badge/Quartus_Prime-0071C5?style=for-the-badge&logo=intel&logoColor=white" alt="Quartus" />\<br />\<br />\
+&#x20;       \<img src="https\://img.shields.io/badge/KiCad-314CB6?style=for-the-badge&logo=kicad&logoColor=white" alt="KiCad" />\<br />\<br />\
+&#x20;       \<img src="https\://img.shields.io/badge/Multisim-005F9E?style=for-the-badge" alt="Multisim" />\
+&#x20;     \</td>\
+&#x20;   \</tr>\
+&#x20; \</tbody>\
+\</table>\
+\
+\<br />\
+\
+\## 🧰 Software & Development Tools\
+\
+\<table>\
+&#x20; \<thead>\
+&#x20;   \<tr align="center">\
+&#x20;     \<th>\<strong>IDEs & Editors\</strong>\</th>\
+&#x20;     \<th>\<strong>Design & Media\</strong>\</th>\
+&#x20;     \<th>\<strong>Version Control & Environment\</strong>\</th>\
+&#x20;   \</tr>\
+&#x20; \</thead>\
+&#x20; \<tbody>\
+&#x20;   \<tr align="center" valign="top">\
+&#x20;     \<td>\
+&#x20;       \<img src="https\://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />\<br />\<br />\
+&#x20;       \<img src="https\://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white" alt="Visual Studio" />\<br />\<br />\
+&#x20;       \<img src="https\://img.shields.io/badge/CLion-000000?style=for-the-badge&logo=clion&logoColor=white" alt="CLion" />\<br />\<br />\
+&#x20;       \<img src="https\://img.shields.io/badge/WebStorm-000000?style=for-the-badge&logo=webstorm&logoColor=white" alt="WebStorm" />\<br />\<br />\
+&#x20;       \<img src="https\://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white" alt="PyCharm" />\
+&#x20;     \</td>\
+&#x20;     \<td>\
+&#x20;       \<img src="https\://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />\<br />\<br />\
+&#x20;       \<img src="https\://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva" />\<br />\<br />\
+&#x20;       \<img src="https\://img.shields.io/badge/CapCut-000000?style=for-the-badge&logo=capcut&logoColor=white" alt="CapCut" />\
+&#x20;     \</td>\
+&#x20;     \<td>\
+&#x20;       \<img src="https\://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />\<br />\<br />\
+&#x20;       \<img src="https\://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />\<br />\<br />\
+&#x20;       \<img src="https\://img.shields.io/badge/Laragon-0E83CD?style=for-the-badge&logo=laragon&logoColor=white" alt="Laragon" />\
+&#x20;     \</td>\
+&#x20;   \</tr>\
+&#x20; \</tbody>\
+\</table>\
+\
+\---\
+\
+\</div>\
+\</body>\
