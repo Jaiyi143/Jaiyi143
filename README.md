@@ -3,9 +3,9 @@
 </p>
 
 <p align="center">
-  <img src="./board-top.png" width="264" height="57" align="top" alt="Profile views on an LCD 1602"><br>
-  <img src="./screen-left.png" width="90" height="26" align="top" alt=""><img src="https://komarev.com/ghpvc/?username=sergie143&amp;label=&amp;color=345540&amp;style=flat-square" width="84" height="26" align="top" alt="Live profile view count"><img src="./screen-right.png" width="90" height="26" align="top" alt=""><br>
-  <img src="./board-bottom.png" width="264" height="36" align="top" alt="">
+  <img src="./board-top.svg" width="264" height="57" align="top" alt="Profile views on an LCD 1602"><br>
+  <img src="./screen-left.svg" width="90" height="26" align="top" alt=""><img src="https://komarev.com/ghpvc/?username=sergie143&amp;label=&amp;color=345540&amp;style=flat-square" width="84" height="26" align="top" alt="Live profile view count"><img src="./screen-right.svg" width="90" height="26" align="top" alt=""><br>
+  <img src="./board-bottom.svg" width="264" height="36" align="top" alt="">
 </p>
 
 ## Tech stack

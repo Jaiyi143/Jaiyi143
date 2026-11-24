@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="264" height="36" viewBox="0 83 264 36">
+  <rect x=".5" y=".5" width="263" height="118" rx="3" fill="#303b6a" stroke="#6676a1"/>
+  <rect x="4.5" y="4.5" width="255" height="110" fill="none" stroke="#4c5984"/>
+  <rect x="15" y="19.5" width="234" height="80" fill="#191919" stroke="#42464b"/>
+  <rect x="33" y="33.4" width="198" height="52.9" fill="#70aa7c" stroke="#263b2c"/>
+  <g fill="#18212f" stroke="#a0a2a0">
+    <circle cx="8.25" cy="8.26" r="4.3"/>
+    <circle cx="255.75" cy="8.26" r="4.3"/>
+    <circle cx="8.25" cy="110.74" r="4.3"/>
+    <circle cx="255.75" cy="110.74" r="4.3"/>
+  </g>
+  <text x="132" y="110" fill="#b2b8d0" font-family="monospace" font-size="7" font-weight="bold" text-anchor="middle" dominant-baseline="central">LCD 1602</text>
+</svg>
