@@ -4,8 +4,8 @@
 
 <p align="center">
   <img src="./board-top.svg" width="264" height="57" align="top" alt="Profile views on an LCD 1602"><br>
-  <img src="./screen-left.svg" width="90" height="26" align="top" alt=""><img src="https://komarev.com/ghpvc/?username=sergie143&amp;label=&amp;color=345540&amp;style=flat-square" width="84" height="26" align="top" alt="Live profile view count"><img src="./screen-right.svg" width="90" height="26" align="top" alt=""><br>
-  <img src="./board-bottom.svg" width="264" height="36" align="top" alt="">
+  <img src="./screen-left.svg" width="90" height="26" align="top" alt=""><img src="https://img.shields.io/badge/dynamic/xml?url=https%3A%2F%2Fkomarev.com%2Fghpvc%2F%3Fusername%3Dsergie143%26label%3D%26style%3Dflat-square&amp;query=(%2F%2F*%5Blocal-name()%3D%22text%22%5D)%5Blast()%5D%2Ftext()&amp;label=&amp;color=507b59&amp;labelColor=507b59&amp;style=flat-square&amp;cacheSeconds=300" width="84" height="26" align="top" alt="Live profile view count"><img src="./screen-right.svg" width="90" height="26" align="top" alt=""><br>
+  <img src="./board-bottom.svg" width="264" height="36" align="top" alt=""><img src="https://komarev.com/ghpvc/?username=sergie143&amp;style=pixel" width="1" height="1" align="top" alt="">
 </p>
 
 ## Tech stack

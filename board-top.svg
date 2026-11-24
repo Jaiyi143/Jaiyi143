@@ -2,7 +2,7 @@
   <title id="title">ESP32 LCD 1602 profile views</title>
   <defs>
     <pattern id="dot" width="1.78" height="1.66" patternUnits="userSpaceOnUse" viewBox="0 0 1.78 1.66">
-      <rect width="1.353" height="1.162" fill="#649e72"/>
+      <rect width="1.353" height="1.162" fill="#60886a"/>
     </pattern>
     <pattern id="cell" x="47" y="42" width="10.68" height="16.6" patternUnits="userSpaceOnUse" viewBox="0 0 10.68 16.6">
       <rect width="8.9" height="13.28" fill="url(#dot)"/>
@@ -11,7 +11,7 @@
   <rect x=".5" y=".5" width="263" height="118" rx="3" fill="#303b6a" stroke="#6676a1"/>
   <rect x="4.5" y="4.5" width="255" height="110" fill="none" stroke="#4c5984"/>
   <rect x="15" y="19.5" width="234" height="80" fill="#191919" stroke="#42464b"/>
-  <rect x="33" y="33.4" width="198" height="52.9" fill="#70aa7c" stroke="#263b2c"/>
+  <rect x="33" y="33.4" width="198" height="52.9" fill="#507b59" stroke="#263b2c"/>
   <g fill="#18212f" stroke="#a0a2a0">
     <circle cx="8.25" cy="8.26" r="4.3"/>
     <circle cx="255.75" cy="8.26" r="4.3"/>
@@ -19,7 +19,7 @@
     <circle cx="255.75" cy="110.74" r="4.3"/>
   </g>
   <rect x="47" y="42" width="170.88" height="33.2" fill="url(#cell)"/>
-  <g fill="#193d2a" transform="translate(47 42)">
+  <g fill="#ebffeb" transform="translate(47 42)">
     <path d="M0 0h1.353v1.162h-1.353z M1.78 0h1.353v1.162h-1.353z M3.56 0h1.353v1.162h-1.353z M5.34 0h1.353v1.162h-1.353z M0 1.66h1.353v1.162h-1.353z M7.12 1.66h1.353v1.162h-1.353z
       M0 3.32h1.353v1.162h-1.353z M7.12 3.32h1.353v1.162h-1.353z M0 4.98h1.353v1.162h-1.353z M1.78 4.98h1.353v1.162h-1.353z M3.56 4.98h1.353v1.162h-1.353z M5.34 4.98h1.353v1.162h-1.353z
       M0 6.64h1.353v1.162h-1.353z M0 8.3h1.353v1.162h-1.353z M0 9.96h1.353v1.162h-1.353z M10.68 0h1.353v1.162h-1.353z M12.46 0h1.353v1.162h-1.353z M14.24 0h1.353v1.162h-1.353z
